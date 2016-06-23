@@ -1,0 +1,50 @@
+﻿body { }
+
+.navbar-custom {
+    padding: 10px;
+}
+
+.navbar-header > a {
+    font-size: 24px;
+    color: white;
+}
+
+.navbar-header > a:hover {
+    color: mediumpurple;
+}
+
+.navbar-right > li > a {
+    color: white;
+}
+
+.nav > li > a:focus, .nav > li > a:hover {
+    background-color: transparent;
+    color: mediumpurple;
+}
+
+.jumbotron {
+	background: no-repeat center right fixed url(/assets/images/Crew_Cover.jpg);
+
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    filter: blur(5px);
+
+	-webkit-background-size: 100%; 
+    -moz-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%; 
+	
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/assets/images/Crew_Cover.jpg', sizingMethod='scale')";
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/assets/images/Crew_Cover.jpg', sizingMethod='scale');
+	
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+.jumbotron .overlay { background-color: #000000; position: absolute; top: 0px; bottom: 0px; left: 0px; right: 0px; opacity: 0.60; filter:alpha(opacity=60); z-index: 2; }
