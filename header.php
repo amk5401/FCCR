@@ -11,7 +11,7 @@
     <nav class="navbar navbar-custom navbar-fixed-top">
         <div class="container-fluid">
             <div class="navbar-header">
-                <a class="navbar-brand" href="index.php">Flower City Collegiate Rowing</a>
+                <a class="navbar-brand" href="index.php">FCCR</a>
             </div>
             <ul class="nav navbar-nav navbar-right">
                 <li id="aboutUsLink"><a href="aboutUs.php">About Us</a></li>
