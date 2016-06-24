@@ -7,7 +7,7 @@
 
 function applyHeader() {
     $('.jumbotron').css({ height: ($(window).height()) + 'px' });
-    $('.aboutUsContainer').css({ height: ($(window).height()) + 'px' });
+    $('.parallax-image.team-image > .parallaxContainer').css({ height: ($(window).width()/3.84) + 'px' });
 }
 
 function sendNewMessage() {

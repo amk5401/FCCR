@@ -83,16 +83,52 @@
 
 .center-text { text-align: center; }
 
-.pictureContainer .overlay { background-color: #000000; position: absolute; top: 0px; bottom: -6px; left: 0px; right: 0px; opacity: 0.60; filter:alpha(opacity=60); z-index: 2; }
-.pictureContainer { padding: 0;}
+.parallaxContainer {   
+    height: 400px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.overlay {  background-color: #000000; opacity: 0.60; filter:alpha(opacity=60); z-index: 2; }
 
-.team-picture {
-    width: 100%;
+.parallax-image.team-image {
+    padding: 0px;
+    background: no-repeat fixed url(/assets/images/Team_wide.jpg);
 
     -webkit-filter: blur(3px);
     -moz-filter: blur(3px);
     -o-filter: blur(3px);
     filter: blur(3px);
+
+    -webkit-background-size: 100%; 
+    -moz-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%; 
+}
+
+.parallax-image.team-image > .parallaxContainer {
+    height: 550px;
+}
+
+.parallax-image.water-image {
+    padding: 0px;
+    /* https://pixabay.com/en/water-river-flow-nature-mood-wave-1138954/ */
+    background: no-repeat fixed url(/assets/images/River.jpg);
+	
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+
+.middle {
+    padding: 20px 0px 30px 0px;
+}
+
+.bottom {
+    padding: 20px 0px 0px 0px;
 }
 
 #playArrow {
