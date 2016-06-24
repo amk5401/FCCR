@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>Flower City Collegiate Rowing</title>
     <meta charset="utf-8" />
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     <link href="css/custom.css" rel="stylesheet" type="text/css"/>
