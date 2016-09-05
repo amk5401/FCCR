@@ -72,6 +72,14 @@
     cursor: pointer;
 }
 
+.alert {
+    color: black !important;
+}
+
+.alert-link {
+    color: mediumpurple !important;
+}
+
 /*****ABOUT US PAGE*****/
 
 .aboutUsContainer {
@@ -127,6 +135,11 @@
     padding: 20px 0px 30px 0px;
 }
 
+video#rowingClip {
+    max-width: 400px !important;
+    width: auto;
+    height: auto;
+}
 
 #playArrow {
   width: 0; 
@@ -146,4 +159,10 @@
 
 .bottom img {
     height: 500px;
+}
+
+/*****FUNDRAISER PAGE*****/
+
+.fundraiserContainer {
+    color: #a0a0a0;
 }

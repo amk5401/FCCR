@@ -2,6 +2,12 @@
 
 <div id="top" class="jumbotron" data-position="center center">
     <div class="container">
+        <div class="alert alert-success" role="alert">
+            <strong>Guess what?</strong>
+            We have a new fundraiser going on. Click
+            <a onclick="location.href='shirtFundraiser.php'" class="alert-link">here</a>
+            to learn more.
+        </div>
         <h1>Flower City Collegiate Rowing</h1>
         <p>For the love of rowing</p>
         <div class="button-container">
