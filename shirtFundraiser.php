@@ -18,7 +18,10 @@
             <img src="assets/images/shirt.png"></img>
         </div>
     </div>
-        <div class="col-md-12 bottom center-text">
+        <div class="col-md-12 parallax-image water-image">
+        <div class="parallaxContainer overlay"></div>
+    </div>
+    <div class="col-md-12 bottom center-text">
         <h1>How can I contribute?</h1>
         <div class="col-md-4 col-md-offset-2"">
             <img src="assets/images/shirt.png"></img>

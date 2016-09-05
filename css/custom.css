@@ -166,3 +166,6 @@ video#rowingClip {
 .fundraiserContainer {
     color: #a0a0a0;
 }
+
+.fundraiserContainer h1 { font-size: 44px; padding-bottom: 20px; }
+.fundraiserContainer p { text-align: left; font-size: 18px; }
