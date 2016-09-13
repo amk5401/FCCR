@@ -2,13 +2,27 @@
 
 <div id="top" class="jumbotron" data-position="center center">
     <div class="container">
-        <div class="alert alert-success" role="alert">
-            <strong>Guess what?</strong>
-            We have a new fundraiser going on. Click
-            <a onclick="location.href='shirtFundraiser.php'" class="alert-link">here</a>
-            to learn more.
+        <div class="panel panel-default">
+            <div class="panel-body" style="color: black">
+                <div class="media">
+                    <div class="media-body">
+                        <h1>Fall Fundraiser</h1>
+                        <p>
+                            We're raising money to pay for our fall season's equipment/coaching expenses. We'll be
+                            racing in the Head of the Genesee Regatta on October 8th, and the top 10 donations will get
+                            to add whatever message or phrase they like to the back of our racing shirts!
+                            <br></br>
+                            <a onclick="location.href='shirtFundraiser.php'" class="alert-link">Click here to learn more!</a>
+                        </p>
+                    </div>
+                    <div class="media-right">
+                        <img class="media-object" src="assets/images/shirt.png" style="height: 150px;">
+                    </div>
+                </div>
+            </div>
         </div>
         <h1>Flower City Collegiate Rowing</h1>
+        <h2>We test in production.</h2>
         <p>For the love of rowing</p>
         <div class="button-container">
             <div onclick="location.href='aboutUs.php'" class="button-custom">Our Story</div>
