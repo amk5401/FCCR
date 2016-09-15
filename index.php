@@ -22,7 +22,6 @@
             </div>
         </div>
         <h1>Flower City Collegiate Rowing</h1>
-        <h2>We test in production.</h2>
         <p>For the love of rowing</p>
         <div class="button-container">
             <div onclick="location.href='aboutUs.php'" class="button-custom">Our Story</div>

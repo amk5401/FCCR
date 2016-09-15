@@ -99,7 +99,7 @@
 .center-text { text-align: center; }
 
 .parallaxContainer {   
-    height: 400px;
+    height: 150px;
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-attachment: fixed;
