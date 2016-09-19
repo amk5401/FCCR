@@ -17,7 +17,7 @@
                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                     <input type="hidden" name="cmd" value="_s-xclick">
                     <input type="hidden" name="hosted_button_id" value="FA427WU3HCRY2">
-                    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" style="height: 1px;">
                     <button class="button-custom" name="submit" formtarget="_blank">Donate here!</button>
                 </form>
             Be sure to expand the "What name do you want on the shirt?" box before donating to add a name!
