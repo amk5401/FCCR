@@ -6,17 +6,17 @@
             <div class="panel-body" style="color: black">
                 <div class="media">
                     <div class="media-body">
-                        <h1>Fall Fundraiser</h1>
+                        <h1 class="media-heading">Fall Fundraiser</h1>
                         <p>
                             We're raising money to pay for our fall season's equipment/coaching expenses. We'll be
                             racing in the Head of the Genesee Regatta on October 8th, and the top 10 donations will get
                             to add whatever message or phrase they like to the back of our racing shirts!
-                            <br></br>
-                            <a onclick="location.href='shirtFundraiser.php'" class="alert-link">Click here to learn more!</a>
+                            </br></br>
+                            <a onclick="location.href='shirtFundraiser.php'" class="alert-link" style="cursor:pointer;">Click here to learn more!</a>
                         </p>
                     </div>
                     <div class="media-right">
-                        <img class="media-object" src="assets/images/shirt.png" style="height: 150px;">
+                        <img class="media-object" src="assets/images/shirt.png" style="height: 150px; margin-top: 70px;">
                     </div>
                 </div>
             </div>
