@@ -8,11 +8,13 @@
                     <div class="media-body">
                         <h1 class="media-heading">Fall Fundraiser</h1>
                         <p>
-                            We're raising money to pay for our fall season's equipment/coaching expenses. We'll be
-                            racing in the Head of the Genesee Regatta on October 8th, and the top 10 donations will get
-                            to add whatever message or phrase they like to the back of our racing shirts!
-                            </br></br>
-                            <a onclick="location.href='shirtFundraiser.php'" class="alert-link" style="cursor:pointer;">Click here to learn more!</a>
+                            This fundraiser is now over. Thank you to everyone who donated! The top 10 donations are as follows:
+                            <br /><br /> 
+                            Athletic Outlet, The Massari Family, The Fishers, Julian Kowalczyk, KMB Yoga, Kailey Rae, 
+                            "Legs Feed the Wolf", Red Bird Market, Ohashi, Rodger
+                            <br /><br />
+                            These names and messages will be displayed on our backs as we race in the Head of the Genesee Regatta 
+                            on October 8th. Be sure to come watch and support us!
                         </p>
                     </div>
                     <div class="media-right">
