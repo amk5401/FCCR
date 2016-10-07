@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
     <title>Flower City Collegiate Rowing</title>
@@ -14,6 +14,7 @@
                 <a class="navbar-brand" href="index.php"><img class="flower-image" src="assets/images/flower_city_logo_threeup.png"/>FCCR</a>
             </div>
             <ul class="nav navbar-nav navbar-right">
+                <li id="doggoLink"><a href="doggoCountdown.php" class="button-custom">Doggo Countdown</a></li>
                 <li>
                     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                         <input type="hidden" name="cmd" value="_s-xclick">

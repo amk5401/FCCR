@@ -11,6 +11,10 @@
     padding: 10px;
 }
 
+#doggoLink > a {
+    padding: 10px;
+}
+
 /*.navbar-header > a {*/
     /*font-size: 24px;*/
     /*color: white;*/
@@ -180,4 +184,20 @@ video#rowingClip {
 .flower-image {
     display: inline-block;
     height: 50px;
+}
+
+/*****DOGGO COUNTDOWN*****/
+.doggoContainer {
+    position: absolute;
+    top: 25%;
+}
+
+#clockdiv {
+    color: white;
+    font-size: 44px;
+}
+
+.dogImg img {
+    width: 50%;
+    height: 75%;
 }
